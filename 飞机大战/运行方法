@@ -1,0 +1,7 @@
+开发环境：
+  python 3.7
+  pygame1.94
+运行方法：
+  使用pip安装pygame
+  进入目录,运行./plane_main.py
+  
